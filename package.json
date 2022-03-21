@@ -6,6 +6,15 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishorliv/kiui.git"
+  },
+  "keywords": [
+    "react",
+    "typescript"
+  ],
+  "license": "MIT",
   "dependencies": {
     "styled-components": "^5.3.3"
   },
